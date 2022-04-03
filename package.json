@@ -1,0 +1,16 @@
+{
+  "name": "backendService",
+  "version": "1.0.0",
+  "main": "entrypoint.ts",
+  "author": "Your Name <you@example.com>",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.1106.0",
+    "axios": "^0.26.1",
+    "mongoose": "^6.2.9",
+    "nodemon": "^2.0.15",
+    "restify": "^8.6.1",
+    "restify-cors-middleware": "^1.1.1",
+    "restify-router": "^0.6.2"
+  }
+}
